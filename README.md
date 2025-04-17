@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about FPGA design
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me through this mail id  muthu270405@gmail.com
-- ⚡ Fun fact: "I'm vengeance "
+- ⚡ Fun fact: 
    "Live your life on your own"
 
 <!---
