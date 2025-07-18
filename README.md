@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muthukumaravel
-- 👀 I’m interested in designing FPGA and Embedded systems
-- 🌱 I’m currently learning about FPGA design
+- 👀 I’m a  Embedded and Software enthusiast
+- 🌱 I’m currently learning about Web development and mainly focused on MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me through this mail id  muthu270405@gmail.com
 - ⚡ Fun fact: 
